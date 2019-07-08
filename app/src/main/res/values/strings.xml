@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Feed</string>
+    <string name="sort_by_date">Date</string>
+    <string name="sort_by_likes">Likes</string>
+    <string name="sort_by_views">Views</string>
+    <string name="sort_by_share">Share</string>
+</resources>
